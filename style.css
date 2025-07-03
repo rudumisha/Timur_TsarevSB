@@ -1,0 +1,27 @@
+header h1{
+    text-align: center;
+}
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+}
+nav{
+    background-color: brown;
+    padding: 30px;
+    font-size: 30px;
+}
+nav a {
+    color: wheat;
+    text-decoration: none;
+margin-right: 40px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 29px;
+}
+footer{
+    background-color: gray;
+    padding: 20px;
+    color: wheat;
+}
